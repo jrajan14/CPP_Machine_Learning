@@ -1,2 +1,2 @@
-# CPP_Machine_Learning
+# C++ Machine Learning
 Machine learning programs in C++. Algorithm implementations and more...
