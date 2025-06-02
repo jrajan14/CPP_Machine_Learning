@@ -1,2 +1,2 @@
-# C++ Machine Learning (COMING SOON).  
+# C++ Machine Learning (COMING SOON).     
 Machine learning programs in C++. Algorithm implementations and more...     
